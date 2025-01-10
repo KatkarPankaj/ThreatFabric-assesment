@@ -1,0 +1,179 @@
+2025-01-09T08:42:25+01:00 [info]: navigating to the application URL  :https://openlibrary.org/
+2025-01-09T08:42:25+01:00 [info]: navigating to the application URL  :https://openlibrary.org/
+2025-01-09T08:42:28+01:00 [info]: clicking on a browse Manu  :
+2025-01-09T08:42:28+01:00 [info]: Selecting advance search from a dropdown  :
+2025-01-09T08:42:29+01:00 [info]: Entering a book title  : ${bookTitle}
+2025-01-09T08:42:29+01:00 [info]: Entering a book title  : J. K. Rowling
+2025-01-09T08:42:29+01:00 [info]: Clicking on search button
+2025-01-09T08:42:31+01:00 [info]: Clicking on author name
+2025-01-09T08:42:33+01:00 [info]: Clicking on top rated
+2025-01-09T08:42:34+01:00 [info]: Started verifying the top rated books by Author
+2025-01-09T08:42:35+01:00 [info]: clicking on a browse Manu  :
+2025-01-09T08:42:35+01:00 [info]: Selecting advance search from a dropdown  :
+2025-01-09T08:42:36+01:00 [info]: Entering a book title  : ${bookTitle}
+2025-01-09T08:42:36+01:00 [info]: Entering a book title  : J. K. Rowling
+2025-01-09T08:42:36+01:00 [info]: Clicking on search button
+2025-01-09T08:42:37+01:00 [info]: Clicking on author name
+2025-01-09T08:42:38+01:00 [info]: Clicking on top rated
+2025-01-09T08:42:39+01:00 [info]: Started verifying the top rated books by Author
+2025-01-10T05:54:18+01:00 [info]: navigating to the application URL  :https://openlibrary.org/
+2025-01-10T05:54:18+01:00 [info]: navigating to the application URL  :https://openlibrary.org/
+2025-01-10T05:54:18+01:00 [info]: navigating to the application URL  :https://openlibrary.org/
+2025-01-10T05:54:18+01:00 [info]: navigating to the application URL  :https://openlibrary.org/
+2025-01-10T05:54:18+01:00 [info]: navigating to the application URL  :https://openlibrary.org/
+2025-01-10T05:54:25+01:00 [info]: clicking on a browse Manu  :
+2025-01-10T05:54:25+01:00 [info]: Selecting advance search from a dropdown  :
+2025-01-10T05:54:25+01:00 [info]: Entering a book title  : ${bookTitle}
+2025-01-10T05:54:26+01:00 [info]: Entering a book title  : J. K. Rowling
+2025-01-10T05:54:26+01:00 [info]: Clicking on search button
+2025-01-10T05:54:28+01:00 [info]: clicking on a browse Manu  :
+2025-01-10T05:54:28+01:00 [info]: Selecting advance search from a dropdown  :
+2025-01-10T05:54:28+01:00 [info]: Clicking on author name
+2025-01-10T05:54:28+01:00 [info]: Entering a book title  : ${bookTitle}
+2025-01-10T05:54:28+01:00 [info]: Entering a book title  : George R. R. Martin
+2025-01-10T05:54:28+01:00 [info]: Clicking on search button
+2025-01-10T05:54:30+01:00 [info]: clicking on a browse Manu  :
+2025-01-10T05:54:30+01:00 [info]: Selecting advance search from a dropdown  :
+2025-01-10T05:54:30+01:00 [info]: Entering a book title  : ${bookTitle}
+2025-01-10T05:54:31+01:00 [info]: clicking on a browse Manu  :
+2025-01-10T05:54:31+01:00 [info]: Clicking on top rated
+2025-01-10T05:54:31+01:00 [info]: Selecting advance search from a dropdown  :
+2025-01-10T05:54:31+01:00 [info]: Entering a book title  : ${bookTitle}
+2025-01-10T05:54:31+01:00 [info]: Entering a book title  : J. K. Rowling
+2025-01-10T05:54:31+01:00 [info]: Clicking on search button
+2025-01-10T05:54:32+01:00 [info]: clicking on a browse Manu  :
+2025-01-10T05:54:32+01:00 [info]: Selecting advance search from a dropdown  :
+2025-01-10T05:54:32+01:00 [info]: Entering a book title  : J. K. Rowling
+2025-01-10T05:54:32+01:00 [info]: Clicking on search button
+2025-01-10T05:54:32+01:00 [info]: Verifying search result for : Harry Potter
+2025-01-10T05:54:32+01:00 [info]: Found valid element with locator: #searchResults
+2025-01-10T05:54:33+01:00 [info]: Entering a book title  : ${bookTitle}
+2025-01-10T05:54:33+01:00 [info]: Started verifying the top rated books by Author
+2025-01-10T05:54:34+01:00 [info]: Entering a book title  : Pankaj Katkar
+2025-01-10T05:54:34+01:00 [info]: Clicking on search button
+2025-01-10T05:54:34+01:00 [info]: Clicking on author name
+2025-01-10T05:54:34+01:00 [info]: Verifying search result for : Official Cocomelon Sing-Song
+2025-01-10T05:54:35+01:00 [info]: Verifying search result for : A Game of Thrones
+2025-01-10T05:54:35+01:00 [info]: Found valid element with locator: #searchResults
+2025-01-10T05:54:35+01:00 [info]: Clicking on top rated
+2025-01-10T05:54:37+01:00 [info]: Started verifying the top rated books by Author
+2025-01-10T05:54:39+01:00 [error]:  Invalid locator: #searchResults
+2025-01-10T05:54:39+01:00 [info]: Found valid element with locator: xpath=//*[@id="contentBody"]/center/div
+2025-01-10T06:05:53+01:00 [info]: Started executing test Name : Verify book Author code for : J. K. Rowling 1
+2025-01-10T06:05:53+01:00 [info]: Started executing test Name : Verify book Author code for : Pankaj Katkar 2
+2025-01-10T06:05:54+01:00 [info]: Started executing test Name : Testing book: Official Cocomelon Sing-Song
+2025-01-10T06:05:54+01:00 [info]: navigating to the application URL  :https://openlibrary.org/
+2025-01-10T06:05:54+01:00 [info]: Started executing test Name : Testing book: Harry Potter
+2025-01-10T06:05:54+01:00 [info]: navigating to the application URL  :https://openlibrary.org/
+2025-01-10T06:05:54+01:00 [info]: Started executing test Name : Testing book: A Game of Thrones
+2025-01-10T06:05:54+01:00 [info]: navigating to the application URL  :https://openlibrary.org/
+2025-01-10T06:05:54+01:00 [info]: Started executing test Name : Verify top books by:  J. K. Rowling Test 1
+2025-01-10T06:05:54+01:00 [info]: Started executing test Name : Verify top books by:  J. K. Rowling Test 2
+2025-01-10T06:05:54+01:00 [info]: navigating to the application URL  :https://openlibrary.org/
+2025-01-10T06:05:54+01:00 [info]: navigating to the application URL  :https://openlibrary.org/
+2025-01-10T06:06:05+01:00 [info]: This is the Author name: J. K. Rowling
+2025-01-10T06:06:05+01:00 [info]: Started executing test Name : Verify book Author code for : J. K. Rowling 1
+2025-01-10T06:06:05+01:00 [info]: clicking on a browse Manu  :
+2025-01-10T06:06:05+01:00 [info]: Selecting advance search from a dropdown  :
+2025-01-10T06:06:06+01:00 [info]: clicking on a browse Manu  :
+2025-01-10T06:06:06+01:00 [info]: Entering a book title  : Harry Potter
+2025-01-10T06:06:06+01:00 [info]: Selecting advance search from a dropdown  :
+2025-01-10T06:06:06+01:00 [info]: clicking on a browse Manu  :
+2025-01-10T06:06:06+01:00 [info]: Entering a book title  : Harry Potter
+2025-01-10T06:06:06+01:00 [info]: Selecting advance search from a dropdown  :
+2025-01-10T06:06:07+01:00 [info]: Entering a book Author  : J. K. Rowling
+2025-01-10T06:06:07+01:00 [info]: clicking on a browse Manu  :
+2025-01-10T06:06:07+01:00 [info]: Clicking on search button
+2025-01-10T06:06:07+01:00 [info]: Selecting advance search from a dropdown  :
+2025-01-10T06:06:07+01:00 [info]: Entering a book title  : Harry Potter
+2025-01-10T06:06:07+01:00 [info]: Entering a book Author  : J. K. Rowling
+2025-01-10T06:06:07+01:00 [info]: Clicking on search button
+2025-01-10T06:06:07+01:00 [info]: Entering a book title  : A Game of Thrones
+2025-01-10T06:06:08+01:00 [info]: Entering a book Author  : J. K. Rowling
+2025-01-10T06:06:08+01:00 [info]: Clicking on search button
+2025-01-10T06:06:08+01:00 [info]: Clicking on author name
+2025-01-10T06:06:08+01:00 [info]: Entering a book Author  : George R. R. Martin
+2025-01-10T06:06:08+01:00 [info]: Clicking on search button
+2025-01-10T06:06:08+01:00 [info]: Verifying search result for : Harry Potter
+2025-01-10T06:06:09+01:00 [info]: Found valid element with locator: #searchResults
+2025-01-10T06:06:09+01:00 [info]: Finished executing test Name: Testing book: Harry Potter
+2025-01-10T06:06:09+01:00 [info]: Clicking on author name
+2025-01-10T06:06:10+01:00 [info]: Verifying search result for : A Game of Thrones
+2025-01-10T06:06:10+01:00 [info]: Found valid element with locator: #searchResults
+2025-01-10T06:06:10+01:00 [info]: Finished executing test Name: Testing book: A Game of Thrones
+2025-01-10T06:06:10+01:00 [info]: clicking on a browse Manu  :
+2025-01-10T06:06:10+01:00 [info]: Selecting advance search from a dropdown  :
+2025-01-10T06:06:11+01:00 [info]: Entering a book title  : Official Cocomelon Sing-Song
+2025-01-10T06:06:12+01:00 [info]: Clicking on top rated
+2025-01-10T06:06:12+01:00 [info]: Entering a book Author  : Pankaj Katkar
+2025-01-10T06:06:12+01:00 [info]: Clicking on search button
+2025-01-10T06:06:13+01:00 [info]: Verifying search result for : Official Cocomelon Sing-Song
+2025-01-10T06:06:14+01:00 [info]: Started verifying the top rated books by Author
+2025-01-10T06:06:14+01:00 [info]: Top book title:
+2025-01-10T06:06:14+01:00 [info]: Second book title:
+2025-01-10T06:06:14+01:00 [info]: Finished executing test Name : Verify top books by:  J. K. Rowling Test 2
+2025-01-10T06:06:14+01:00 [info]: Clicking on top rated
+2025-01-10T06:06:16+01:00 [info]: Started verifying the top rated books by Author
+2025-01-10T06:06:16+01:00 [info]: Top book title:
+2025-01-10T06:06:16+01:00 [info]: Second book title:
+2025-01-10T06:06:18+01:00 [error]:  Invalid locator: #searchResults
+2025-01-10T06:06:18+01:00 [info]: Found valid element with locator: xpath=//*[@id="contentBody"]/center/div
+2025-01-10T06:09:53+01:00 [info]: Started executing test Name : Verify book Author code for : Pankaj Katkar 2
+2025-01-10T06:09:53+01:00 [info]: Started executing test Name : Verify book Author code for : J. K. Rowling 1
+2025-01-10T06:09:53+01:00 [info]: Started executing test Name : Verify top books by:  J. K. Rowling Test 2
+2025-01-10T06:09:53+01:00 [info]: navigating to the application URL  :https://openlibrary.org/
+2025-01-10T06:09:54+01:00 [info]: Started executing test Name : Testing book: Harry Potter
+2025-01-10T06:09:54+01:00 [info]: navigating to the application URL  :https://openlibrary.org/
+2025-01-10T06:09:54+01:00 [info]: Started executing test Name : Testing book: Official Cocomelon Sing-Song
+2025-01-10T06:09:54+01:00 [info]: navigating to the application URL  :https://openlibrary.org/
+2025-01-10T06:09:54+01:00 [info]: Started executing test Name : Testing book: A Game of Thrones
+2025-01-10T06:09:54+01:00 [info]: navigating to the application URL  :https://openlibrary.org/
+2025-01-10T06:09:54+01:00 [info]: Started executing test Name : Verify top books by:  J. K. Rowling Test 1
+2025-01-10T06:09:54+01:00 [info]: navigating to the application URL  :https://openlibrary.org/
+2025-01-10T06:10:05+01:00 [info]: clicking on a browse Manu  :
+2025-01-10T06:10:05+01:00 [info]: Selecting advance search from a dropdown  :
+2025-01-10T06:10:05+01:00 [info]: This is the Author name: J. K. Rowling
+2025-01-10T06:10:05+01:00 [info]: Started executing test Name : Verify book Author code for : J. K. Rowling 1
+2025-01-10T06:10:05+01:00 [info]: Entering a book title  : A Game of Thrones
+2025-01-10T06:10:06+01:00 [info]: Entering a book Author  : George R. R. Martin
+2025-01-10T06:10:06+01:00 [info]: Clicking on search button
+2025-01-10T06:10:06+01:00 [info]: clicking on a browse Manu  :
+2025-01-10T06:10:06+01:00 [info]: Selecting advance search from a dropdown  :
+2025-01-10T06:10:07+01:00 [info]: Entering a book title  : Harry Potter
+2025-01-10T06:10:07+01:00 [info]: clicking on a browse Manu  :
+2025-01-10T06:10:07+01:00 [info]: Selecting advance search from a dropdown  :
+2025-01-10T06:10:07+01:00 [info]: Entering a book Author  : J. K. Rowling
+2025-01-10T06:10:07+01:00 [info]: Clicking on search button
+2025-01-10T06:10:07+01:00 [info]: Entering a book title  : Official Cocomelon Sing-Song
+2025-01-10T06:10:07+01:00 [info]: clicking on a browse Manu  :
+2025-01-10T06:10:07+01:00 [info]: Verifying search result for : A Game of Thrones
+2025-01-10T06:10:08+01:00 [info]: Entering a book Author  : Pankaj Katkar
+2025-01-10T06:10:08+01:00 [info]: Selecting advance search from a dropdown  :
+2025-01-10T06:10:08+01:00 [info]: Clicking on search button
+2025-01-10T06:10:08+01:00 [info]: Found valid element with locator: #searchResults
+2025-01-10T06:10:08+01:00 [info]: Finished executing test Name: Testing book: A Game of Thrones
+2025-01-10T06:10:08+01:00 [info]: clicking on a browse Manu  :
+2025-01-10T06:10:08+01:00 [info]: Selecting advance search from a dropdown  :
+2025-01-10T06:10:08+01:00 [info]: Entering a book title  : Harry Potter
+2025-01-10T06:10:08+01:00 [info]: Entering a book title  : Harry Potter
+2025-01-10T06:10:08+01:00 [info]: Verifying search result for : Official Cocomelon Sing-Song
+2025-01-10T06:10:09+01:00 [info]: Entering a book Author  : J. K. Rowling
+2025-01-10T06:10:09+01:00 [info]: Clicking on search button
+2025-01-10T06:10:09+01:00 [info]: Entering a book Author  : J. K. Rowling
+2025-01-10T06:10:09+01:00 [info]: Clicking on search button
+2025-01-10T06:10:10+01:00 [info]: Clicking on author name
+2025-01-10T06:10:11+01:00 [info]: Clicking on author name
+2025-01-10T06:10:11+01:00 [info]: Verifying search result for : Harry Potter
+2025-01-10T06:10:11+01:00 [info]: Found valid element with locator: #searchResults
+2025-01-10T06:10:11+01:00 [info]: Finished executing test Name: Testing book: Harry Potter
+2025-01-10T06:10:13+01:00 [error]:  Invalid locator: #searchResults
+2025-01-10T06:10:13+01:00 [info]: Found valid element with locator: xpath=//*[@id="contentBody"]/center/div
+2025-01-10T06:10:15+01:00 [info]: Clicking on top rated
+2025-01-10T06:10:16+01:00 [info]: Clicking on top rated
+2025-01-10T06:10:17+01:00 [info]: Started verifying the top rated books by Author
+2025-01-10T06:10:17+01:00 [info]: Top book title:
+2025-01-10T06:10:17+01:00 [info]: Second book title:
+2025-01-10T06:10:21+01:00 [info]: Started verifying the top rated books by Author
+2025-01-10T06:10:21+01:00 [info]: Top book title:
+2025-01-10T06:10:21+01:00 [info]: Second book title:
+2025-01-10T06:10:21+01:00 [info]: Finished executing test Name : Verify top books by:  J. K. Rowling Test 2
