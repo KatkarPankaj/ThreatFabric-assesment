@@ -1,0 +1,12 @@
+{
+    "BookDetails":
+        [
+        {"BookName":"Harry Potter","AuthorName":"J. K. Rowling"},
+        {"BookName":"Harry Potter","AuthorName":"J. K. Rowling"}
+    ],
+"BookByAuthor" :[
+    {"BookName1":"Harry Potter and the Prisoner of Azkaban","BookName2":"Harry Potter and the Prisoner of Azkaban"},
+    {"BookName1":"Harry Potter and the Prisoner of Azkaban","BookName2":"Harry Potter and the Half-Blood Prince"}
+   
+]
+}
